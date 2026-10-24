@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Tanuj Sharma's personal portfolio showcasing web development and cybersecurity learning projects.">
+  <title>Tanuj Sharma | Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <nav class="nav container" aria-label="Main navigation">
+      <a class="logo" href="#home">TS<span>.</span></a>
+      <button class="menu-toggle" id="menuToggle" aria-label="Toggle navigation" aria-expanded="false">☰</button>
+      <div class="nav-links" id="navLinks">
+        <a href="#home">Home</a><a href="#about">About</a><a href="#skills">Skills</a><a href="#projects">Projects</a><a class="nav-cta" href="#contact">Contact</a>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero container" id="home">
+      <div class="hero-copy">
+        <p class="eyebrow"><span class="status-dot"></span> LEARNING • BUILDING • IMPROVING</p>
+        <h1>Hi, I'm <span>Tanuj Sharma.</span><br>Future-ready, one project at a time.</h1>
+        <p class="hero-text">BCA student exploring web development and cybersecurity. I enjoy learning by building practical projects and solving real problems.</p>
+        <div class="hero-actions">
+          <a class="button button-primary" href="#projects">Explore my work <span aria-hidden="true">↗</span></a>
+          <a class="button button-secondary" href="#about">A little about me</a>
+        </div>
+        <div class="hero-tags"><span>Web Development</span><span>Cybersecurity</span><span>Continuous Learning</span></div>
+      </div>
+      <div class="hero-card" aria-label="Portfolio introduction card">
+        <div class="card-top"><span>MY FOCUS</span><span class="card-icon">✳</span></div>
+        <div class="orb"><span>TS</span></div>
+        <h2>Curiosity into capability.</h2>
+        <p>Learning the fundamentals. Practising consistently. Creating with purpose.</p>
+        <div class="mini-stats"><div><strong>01</strong><span>Stay curious</span></div><div><strong>02</strong><span>Build often</span></div><div><strong>03</strong><span>Keep growing</span></div></div>
+      </div>
+    </section>
+
+    <section class="section container" id="about">
+      <div class="section-heading"><p class="eyebrow">GET TO KNOW ME</p><h2>About <span>me</span></h2></div>
+      <div class="about-panel"><div class="about-mark">TS<span>.</span></div><div><h3>A student with a builder's mindset.</h3><p>I'm studying Computer Applications and developing my skills in front-end web technologies and cybersecurity. My goal is to strengthen my technical foundation through hands-on practice, collaboration, and projects that I can explain and improve.</p><p class="muted">This portfolio is a work in progress—just like every good learning journey.</p></div></div>
+    </section>
+
+    <section class="section container" id="skills">
+      <div class="section-heading"><p class="eyebrow">WHAT I'M EXPLORING</p><h2>Skills & <span>interests</span></h2></div>
+      <div class="skill-grid">
+        <article class="skill-card"><div class="skill-icon">&lt;/&gt;</div><h3>HTML</h3><p>Semantic page structure and accessible content.</p><div class="skill-line"><span style="width:78%"></span></div></article>
+        <article class="skill-card"><div class="skill-icon">✦</div><h3>CSS</h3><p>Layouts, responsive styling, and visual design.</p><div class="skill-line"><span style="width:68%"></span></div></article>
+        <article class="skill-card"><div class="skill-icon">{ }</div><h3>JavaScript</h3><p>Interactive UI and core programming concepts.</p><div class="skill-line"><span style="width:42%"></span></div></article>
+        <article class="skill-card"><div class="skill-icon">⌘</div><h3>Cybersecurity</h3><p>Networking basics, Linux labs, and security concepts.</p><div class="skill-line"><span style="width:48%"></span></div></article>
+      </div>
+      <p class="note">Progress bars are visual placeholders, not formal skill ratings. Keep this section updated as you learn.</p>
+    </section>
+
+    <section class="section container" id="projects">
+      <div class="section-heading"><p class="eyebrow">PRACTICE IN ACTION</p><h2>Featured <span>projects</span></h2></div>
+      <div class="project-grid">
+        <article class="project-card"><div class="project-visual visual-blue"><span>01</span><b>NETWORK<br>TOOLS</b></div><div class="project-content"><p class="project-type">CYBERSECURITY</p><h3>Basic Network Sniffer</h3><p>A learning project focused on observing network packets and understanding traffic analysis in an authorised lab.</p><a href="https://github.com/ts2205999-code/CodeAlpha_Basic_Network_Sniffer" target="_blank" rel="noopener noreferrer">View repository ↗</a></div></article>
+        <article class="project-card"><div class="project-visual visual-purple"><span>02</span><b>WEB<br>EXPERIMENTS</b></div><div class="project-content"><p class="project-type">WEB DEVELOPMENT</p><h3>Portfolio Website</h3><p>A responsive personal website built with HTML, CSS, and JavaScript, with a mobile navigation menu and interactive details.</p><a href="#contact">Discuss this project ↗</a></div></article>
+        <article class="project-card"><div class="project-visual visual-green"><span>03</span><b>KEEP<br>LEARNING</b></div><div class="project-content"><p class="project-type">COMING NEXT</p><h3>More projects soon</h3><p>I'll add new practical projects here as I complete them and document what I learn.</p><a href="#contact">Get in touch ↗</a></div></article>
+      </div>
+    </section>
+
+    <section class="contact-section" id="contact"><div class="container contact-inner"><p class="eyebrow">LET'S CONNECT</p><h2>Good ideas start with <span>a conversation.</span></h2><p>Interested in technology, projects, or learning together? Find me on GitHub.</p><a class="button button-primary" href="https://github.com/ts2205999-code" target="_blank" rel="noopener noreferrer">Visit my GitHub <span aria-hidden="true">↗</span></a></div></section>
+  </main>
+  <footer class="footer"><div class="container footer-inner"><a class="logo" href="#home">TS<span>.</span></a><p>Designed and built with HTML, CSS & JavaScript.</p><p>© <span id="year"></span> Tanuj Sharma</p></div></footer>
+</body>
+</html>
