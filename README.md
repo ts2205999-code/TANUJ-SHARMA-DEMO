@@ -1,49 +1,54 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Tanuj Sharma</h1>
+# Tanuj Sharma
 
-<h3>BCA Student • Cybersecurity Enthusiast • Web Developer</h3>
+### BCA Student | Cybersecurity Learner | Web Developer
 
-<p>
-Building secure applications, creating modern websites, and continuously learning new technologies.
-</p>
+I’m a BCA student building practical skills in cybersecurity, networking, and web development. I enjoy learning by creating projects, documenting what I learn, and improving step by step.
 
-<hr width="60%">
+[![GitHub](https://img.shields.io/badge/GitHub-ts2205999--code-181717?style=for-the-badge&logo=github)](https://github.com/ts2205999-code)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tanuj-sharma-b4895429b)
 
-<h2>🚀 Tech Stack</h2>
+</div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,java,python,git,github,vscode" />
-</p>
+---
 
-<h2>📌 Currently Learning</h2>
+## About Me
 
-<p>
-✔ HTML5 <br>
-✔ CSS3 <br>
-✔ Java <br>
-✔ Python <br>
-✔ Cyber Security
-</p>
+- 🎓 Studying **Bachelor of Computer Applications (BCA)**.
+- 🔐 Exploring **cybersecurity, network security, and blue-team fundamentals**.
+- 🌐 Practising **HTML, CSS, and Java** while developing my programming skills.
+- 🧪 Learning through hands-on labs, small projects, and technical practice.
+- 🎯 Working toward an entry-level cybersecurity opportunity while continuing to build a strong technical foundation.
 
-<h2>🌐 Connect With Me</h2>
+## Skills & Tools
 
 <p>
-<a href="https://www.linkedin.com/in/tanuj-sharma-b4895429b">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://www.instagram.com/tanujsharma_5528?igsh=MXJqdG11amI3bGY0ZQ==">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<a href="https://github.com/ts2205999-code">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+  <img src="https://skillicons.dev/icons?i=html,css,java,python,git,github,vscode,linux" alt="HTML, CSS, Java, Python, Git, GitHub, VS Code and Linux" />
 </p>
 
-<hr width="60%">
+**Areas I’m exploring:** Networking · Linux fundamentals · Cybersecurity · Web development
 
-<p><b>⭐ Thanks for visiting my GitHub Profile ⭐</b></p>
+## Featured Project
 
+### [Basic Network Sniffer](https://github.com/ts2205999-code/CodeAlpha_Basic_Network_Sniffer)
+A learning project focused on understanding network traffic and packet-sniffing concepts. Use it only on networks and systems you own or have permission to test.
+
+## Current Focus
+
+- Strengthening networking and Linux fundamentals.
+- Practising web development and programming.
+- Building and documenting cybersecurity projects.
+- Improving my Git and GitHub workflow.
+
+## Connect
+
+- **GitHub:** [@ts2205999-code](https://github.com/ts2205999-code)
+- **LinkedIn:** [Tanuj Sharma](https://www.linkedin.com/in/tanuj-sharma-b4895429b/)
+- **Instagram:** [@tanujsharma_5528](https://www.instagram.com/tanujsharma_5528/)
+
+---
+
+<div align="center">
+  <i>Learning consistently. Building practically. Improving every day.</i>
 </div>
