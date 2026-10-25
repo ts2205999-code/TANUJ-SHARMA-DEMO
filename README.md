@@ -1,54 +1,33 @@
-<div align="center">
+# Hi, I'm Tanuj Sharma 👋
 
-# Tanuj Sharma
+I'm a BCA student from Himachal Pradesh. I'm learning web development and cybersecurity, and I like figuring things out by actually trying them instead of only reading about them.
 
-### BCA Student | Cybersecurity Learner | Web Developer
+## A little about me
 
-I’m a BCA student building practical skills in cybersecurity, networking, and web development. I enjoy learning by creating projects, documenting what I learn, and improving step by step.
+- 🎓 BCA student
+- 🌐 Learning HTML and CSS, and practising Java
+- 🔐 Exploring networking, Linux, and cybersecurity basics
+- 🧪 Working on small projects and hands-on labs as I learn
+- 📈 Still learning, still making mistakes, and getting better one step at a time
 
-[![GitHub](https://img.shields.io/badge/GitHub-ts2205999--code-181717?style=for-the-badge&logo=github)](https://github.com/ts2205999-code)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tanuj-sharma-b4895429b)
+## What I'm working on
 
-</div>
+Right now, I'm focusing on getting the basics right: understanding networks, becoming more comfortable with Linux, and building simple websites. I want my projects to show what I've actually practised, not just a list of technologies.
 
----
+## Projects
 
-## About Me
+### Basic Network Sniffer
+A learning project to explore how network traffic and packet sniffing work. I use these concepts for learning and only on systems or networks where I have permission.
 
-- 🎓 Studying **Bachelor of Computer Applications (BCA)**.
-- 🔐 Exploring **cybersecurity, network security, and blue-team fundamentals**.
-- 🌐 Practising **HTML, CSS, and Java** while developing my programming skills.
-- 🧪 Learning through hands-on labs, small projects, and technical practice.
-- 🎯 Working toward an entry-level cybersecurity opportunity while continuing to build a strong technical foundation.
+👉 [View the project](https://github.com/ts2205999-code/CodeAlpha_Basic_Network_Sniffer)
 
-## Skills & Tools
+## Tools I'm learning
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,java,python,git,github,vscode,linux" alt="HTML, CSS, Java, Python, Git, GitHub, VS Code and Linux" />
-</p>
+HTML · CSS · Java · Python · Git · GitHub · Linux
 
-**Areas I’m exploring:** Networking · Linux fundamentals · Cybersecurity · Web development
+## Say hello
 
-## Featured Project
+- GitHub: [@ts2205999-code](https://github.com/ts2205999-code)
+- LinkedIn: [Tanuj Sharma](https://www.linkedin.com/in/tanuj-sharma-b4895429b/)
 
-### [Basic Network Sniffer](https://github.com/ts2205999-code/CodeAlpha_Basic_Network_Sniffer)
-A learning project focused on understanding network traffic and packet-sniffing concepts. Use it only on networks and systems you own or have permission to test.
-
-## Current Focus
-
-- Strengthening networking and Linux fundamentals.
-- Practising web development and programming.
-- Building and documenting cybersecurity projects.
-- Improving my Git and GitHub workflow.
-
-## Connect
-
-- **GitHub:** [@ts2205999-code](https://github.com/ts2205999-code)
-- **LinkedIn:** [Tanuj Sharma](https://www.linkedin.com/in/tanuj-sharma-b4895429b/)
-- **Instagram:** [@tanujsharma_5528](https://www.instagram.com/tanujsharma_5528/)
-
----
-
-<div align="center">
-  <i>Learning consistently. Building practically. Improving every day.</i>
-</div>
+Thanks for stopping by. I'm building my skills one project at a time.
