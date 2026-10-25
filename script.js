@@ -27,6 +27,7 @@ if (menuToggle && navLinks) {
 // Add a subtle reveal effect when sections enter the viewport.
 const sections = document.querySelectorAll(".section, .contact-section");
 if ("IntersectionObserver" in window) {
+  document.body.classList.add("reveal-ready");
   const observer = new IntersectionObserver((entries) => {
     entries.forEach((entry) => {
       if (entry.isIntersecting) {
