@@ -27,3 +27,25 @@ h1{font-size:clamp(2.6rem,5vw,4.4rem);max-width:720px}h1 span,.section-heading h
 @media(max-width:900px){.hero{gap:35px;grid-template-columns:1fr  .8fr}.skill-grid{grid-template-columns:repeat(2,1fr)}.project-grid{grid-template-columns:repeat(2,1fr)}.project-card:last-child{grid-column:1/-1}.project-card:last-child .project-content>p:not(.project-type){min-height:auto}}
 @media(max-width:680px){.container{width:min(100% - 30px,540px)}.nav{height:68px}.menu-toggle{display:block}.nav-links{display:none;position:absolute;top:68px;left:0;right:0;padding:20px;background:#0e1528;border-bottom:1px solid var(--line);flex-direction:column;gap:18px}.nav-links.open{display:flex}.hero{padding-top:55px;padding-bottom:55px;grid-template-columns:1fr;gap:38px;min-height:auto}.hero-card{max-width:440px;width:100%;margin-inline:auto}h1{font-size:clamp(2.45rem,11vw,3.5rem)}.hero-text{font-size:1rem}.section{padding-top:52px;padding-bottom:52px}.about-panel{grid-template-columns:1fr;padding:24px;gap:20px}.about-mark{width:90px;height:90px;font-size:2rem;border-radius:20px}.skill-grid,.project-grid{grid-template-columns:1fr}.project-card:last-child{grid-column:auto}.skill-card p,.project-content>p:not(.project-type){min-height:auto}.project-visual{height:150px}.contact-section{padding:60px 0;margin-top:20px}.footer-inner{flex-direction:column;text-align:center;gap:8px}.footer-inner .logo{margin-bottom:3px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{transition:none!important}}
+
+
+/* Section reveal effect used by script.js; content stays visible if JavaScript is unavailable. */
+body.reveal-ready .section,
+body.reveal-ready .contact-section {
+  opacity: 0;
+  transform: translateY(12px);
+  transition: opacity 0.45s ease, transform 0.45s ease;
+}
+body.reveal-ready .section.is-visible,
+body.reveal-ready .contact-section.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+@media (prefers-reduced-motion: reduce) {
+  body.reveal-ready .section,
+  body.reveal-ready .contact-section {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}
